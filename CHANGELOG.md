@@ -1,4 +1,7 @@
-﻿# 1.0.8
+﻿# 1.0.9
+- Update BepInEx from v5.4.22.0 to v5.4.23.5
+
+# 1.0.8
 - Starting work on adding support for Unity version 6000+
 
 # 1.0.7
